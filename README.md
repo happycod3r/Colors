@@ -1,3 +1,3 @@
 ![Title](src/res/Colors.png)
 
-# In development and coming soon    
+# In development and coming soon ...

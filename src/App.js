@@ -1,10 +1,10 @@
-import Button from './components/Button/Button';
+import CtrlBar from './components/Button/CtrlBar';
 import './app.css';
 
 function App() {
   return (
     <div className="app">
-        <Button />
+        <CtrlBar />
     </div>
   );
 }
