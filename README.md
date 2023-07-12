@@ -1,1 +1,1 @@
-![Title](public/Colors.png)
+![Title](src/res/Colors.png)
