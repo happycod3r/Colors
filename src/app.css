@@ -1,0 +1,15 @@
+
+
+.app {
+    background-color:#242424;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vw;
+}
+
